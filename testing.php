@@ -6,4 +6,3 @@
   }
   $hello .= 'test';
   print 'Hello PHP!';
-
