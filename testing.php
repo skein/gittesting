@@ -4,3 +4,6 @@
   if ($hello == 'test') {
     print 'this is a test';
   }
+  $hello .= 'test';
+  print 'Hello PHP!';
+
